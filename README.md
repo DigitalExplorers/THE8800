@@ -1,11 +1,10 @@
-# THE 8800 — Digital Explorers
+# Welcome to THE 8800 GitHub — Digital Explorers
 
-Welcome to our GitHub.  
-We are a team of engineers, designers, and product thinkers building transformative tech at the edge of innovation.
+We are a new product development studio helping startups and enterprises build with speed and intelligence.  
+From GenAI and IoT to enterprise-scale cloud platforms, we craft transformative tools for the real world.
 
-🔭 Current Focus:  
-- Generative AI Tools  
-- IoT & Embedded Frameworks  
-- Product Accelerators from our Innovation Lab  
+Our Innovation Lab builds reusable tech to 10x product velocity.  
+Projects include: AI co-pilots, Dual-Track Agile frameworks, and scalable digital platforms.
 
-🚀 LET's EXPLORE → [the8800.com](https://the8800.com)
+Explore. Build. Transform.  
+🔗 [the8800.com](https://the8800.com)
