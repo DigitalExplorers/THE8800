@@ -7,4 +7,5 @@ Our Innovation Lab builds reusable tech to 10x product velocity.
 Projects include: AI co-pilots, Dual-Track Agile frameworks, and scalable digital platforms.
 
 Explore. Build. Transform.  
+
 🔗 [the8800.com](https://the8800.com)
